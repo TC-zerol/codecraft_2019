@@ -85,8 +85,6 @@ python src/simulator.py config/car.txt config/road.txt config/cross.txt config/a
 
 
 
-
-
 ### 错误路线
 
 终点两两聚类的时候，出现问题，会发生死锁
